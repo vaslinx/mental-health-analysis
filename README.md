@@ -3,11 +3,6 @@ This project demonstrates data analysis, visualization,
 and machine learning using a real mental health survey dataset.
 
 ## Project Structure
-mental-health-analysis/
-├── mental_health_finaldata_1.csv
-├── mental_health_analysis.ipynb
-└── README.md
-
 ## Project Goals
 * Data loading and overview
 * Data cleaning and label encoding
